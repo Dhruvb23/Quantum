@@ -1,0 +1,5 @@
+Problem statement: EcoSwap - Web-Based Sustainable Product Exchange Platform
+Description:
+A web application that facilitates the exchange or donation of gently used items like clothes, books, and electronics, promoting circular economy.
+
+FairXChange is a web application designed for exchanging and donating second-hand items, promoting sustainability and community sharing. The HTML structure defines key sections such as navigation, a hero call-to-action, search and filter options, an item display grid, and modals for user interactions like login, signup, and item details. The JavaScript functionality enables item display, search and filtering by category and location, modal management, form handling, and dynamic item card creation. The CSS ensures a visually appealing, responsive design with a blue-themed color scheme. This platform empowers users to browse, donate, and exchange gently used items, fostering a culture of reuse.
